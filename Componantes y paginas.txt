@@ -1,0 +1,30 @@
+Ulawyer
+
+Componentes:
+
+1: Login
+2: Registro Cliente
+3: Registro Abogado
+4: Menú
+5: Datos cliente
+6: Recuperar clave
+7: Selección región
+8: Selección tema legal
+9: Ingreso caso
+10: Condiciones Abogado
+11: Lista Abogados
+12: Título página
+13: Header
+14: Footer
+15: Botón Registro Cliente
+16: Botón Registro Abogado
+
+Páginas:
+
+1: Registro General
+2: Registro Cliente
+3: Registro Abogado
+4: Login
+5: Recuperación clave
+6: Ingreso Caso
+
